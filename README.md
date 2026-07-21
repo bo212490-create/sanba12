@@ -52,6 +52,34 @@ MyApp/
 - Android NDK (with `ndk-build` support)
 - Gradle / Android Gradle Plugin 3.5.3 (or use with AIDE, which supports `ndk-build`-based projects directly)
 
+## Clone Repository
+
+If you're new to Git, follow these steps to download a copy of this project to your computer.
+
+### 1. Copy the repository
+
+Open a terminal (Command Prompt, PowerShell, Terminal, or Termux) and run:
+
+```bash
+git clone https://github.com/bo212490-create/sanba12.git
+```
+
+### 2. Enter the project folder
+
+```bash
+cd sanba12
+```
+
+You are now inside the project directory and can build or edit the project.
+
+> **Note:** If you do not have Git installed, you can also download the project as a ZIP file:
+>
+> 1. Open the GitHub repository page.
+> 2. Click **Code**.
+> 3. Select **Download ZIP**.
+> 4. Extract the ZIP file.
+> 5. Open the extracted project folder.
+
 ## Build
 
 ```bash
